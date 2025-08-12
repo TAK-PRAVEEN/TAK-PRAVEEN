@@ -22,12 +22,11 @@ jobs:
           github_user_name: TAK-PRAVEEN
           outputs: dist/github-contribution-grid-snake.svg
           # optional: uncomment to use a custom snake color
-          snake_color: "#ff6347"
+          # snake_color: "#39E09B"
 
       - name: Push generated SVG to output branch
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
-          folder: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          directory: dist
