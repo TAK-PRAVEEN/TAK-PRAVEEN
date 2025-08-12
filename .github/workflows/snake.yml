@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg
+      - name: Generate snake.svg with Linktree green color
         uses: Platane/snk@v3
         with:
           github_user_name: TAK-PRAVEEN
@@ -30,7 +30,7 @@ jobs:
           git switch output || git checkout --orphan output
           cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
-          git commit -m "Updated snake animation" || echo "No changes to commit"
+          git commit -m "Updated snake animation with Linktree green" || echo "No changes to commit"
           git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
