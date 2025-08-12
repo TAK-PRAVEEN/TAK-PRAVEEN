@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: TAK-PRAVEEN
           outputs: dist/github-contribution-grid-snake.svg
-          snake_color: "#39E09B" # optional: match Linktree color
+          snake_color: "#39E09B"
 
       - name: Push to output branch
         run: |
@@ -28,9 +28,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin
           git switch output || git checkout --orphan output
-          cp dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
+          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
-          git commit -m "Updated snake animation"
-          git push -f origin output
+          git commit -m "Updated snake animation" || echo "No changes to commit"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
