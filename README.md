@@ -46,8 +46,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenTak&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenTak&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TAK-PRAVEEN&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAK-PRAVEEN&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PraveenTak/TAK-PRAVEEN/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/TAK-PRAVEEN/TAK-PRAVEEN/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
