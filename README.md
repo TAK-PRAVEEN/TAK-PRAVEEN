@@ -73,7 +73,7 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PraveenTak/PraveenTak/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/PraveenTak/TAK-PRAVEEN/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
