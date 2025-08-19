@@ -38,7 +38,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sql,powerbi,excel,docker,mongodb,git,vscode&perline=6" />
 </p>
 
