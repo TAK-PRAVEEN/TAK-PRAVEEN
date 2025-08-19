@@ -3,7 +3,7 @@
   Hi there, I'm <a href="https://github.com/TAK-PRAVEEN" target="_blank">Praveen Tak</a> 👋
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Enthusiast;BSc+Computer+Science+Student;Open+Source+Contributor" alt="Typing Animation">
   </a>
 </p>
@@ -12,16 +12,16 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="mailto:praveentak715@gmail.com">
+  <a href="mailto:praveentak715@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/Praveen.Tak">
+  <a href="https://linktr.ee/Praveen.Tak" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/praveentak/">
+  <a href="https://www.linkedin.com/in/praveentak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/TAK-PRAVEEN">
+  <a href="https://github.com/TAK-PRAVEEN" target="_blank">
     <img src="https://img.shields.io/github/followers/TAK-PRAVEEN?label=Follow&style=for-the-badge" />
   </a>
 </p>
@@ -61,10 +61,10 @@
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="mailto:praveentak715@gmail.com">
+  <a href="mailto:praveentak715@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/praveentak715/">
+  <a href="https://www.linkedin.com/in/praveentak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn%20Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
