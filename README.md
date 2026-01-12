@@ -53,24 +53,8 @@
 
 ---
 
-## 📊 GitHub Stats Dashboard (Stable Alternative)
-<p align="center">
-  <img src="https://metrics.lecoq.io/TAK-PRAVEEN?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TAK-PRAVEEN&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TAK-PRAVEEN&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+### 📌 3D Contribution Graph
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
