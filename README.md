@@ -1,6 +1,6 @@
 <!-- Profile Header with Typing Animation -->
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/TAK-PRAVEEN" target="_blank">Praveen Tak</a> 👋
+  Hi there, I'm <a href="https://github.com/TAK-PRAVEEN" target="_blank">PRAVEEN TAK</a> 
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -31,8 +31,9 @@
 
 <!-- Extra Stats Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TAK-PRAVEEN?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/TAK-PRAVEEN?label=Repos&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/TAK-PRAVEEN?label=Followers&style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/github/stars/TAK-PRAVEEN?label=Stars&style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/github/last-commit/TAK-PRAVEEN/TAK-PRAVEEN?label=Last%20Update&style=for-the-badge&color=000000" />
 </p>
 
 ---
