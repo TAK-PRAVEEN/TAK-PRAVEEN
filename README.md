@@ -29,6 +29,12 @@
   </a>
 </p>
 
+<!-- Extra Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/TAK-PRAVEEN?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/TAK-PRAVEEN?label=Repos&style=for-the-badge" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -47,10 +53,23 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats Dashboard (Stable Alternative)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAK-PRAVEEN&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAK-PRAVEEN&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://metrics.lecoq.io/TAK-PRAVEEN?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TAK-PRAVEEN&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TAK-PRAVEEN&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
