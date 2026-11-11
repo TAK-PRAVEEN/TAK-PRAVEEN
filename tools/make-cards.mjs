@@ -27,22 +27,23 @@ const FONTS = `
 @font-face{font-family:PX;src:url("${f("public/fonts/ibm-plex-sans-400.woff2")}")}`;
 
 const html = (c, dark) => {
-  const bg = dark ? "#0d1117" : "#f0f0ee", fg = dark ? "#f0f0ee" : "#080809", mute = dark ? "#9a9aa0" : "#6b6b70", line = dark ? "#2a2f38" : "#d6d6d2";
+  const LIME = "#CDF22B";
+  const bg = dark ? "#08090B" : "#FAF8F3", fg = dark ? "#FAF8F3" : "#08090B", mute = dark ? "#9a9a96" : "#6b6b70", line = dark ? "#2a2b2e" : "#dcd9cf";
   return `<!doctype html><html><head><meta charset="utf-8"><style>${FONTS}
 *{margin:0;box-sizing:border-box}html,body{width:1200px;height:760px;background:${bg};overflow:hidden}
 .c{position:absolute;inset:0;padding:44px 48px;border:2px solid ${line};border-radius:28px;color:${fg};font-family:PX}
 .m{font-family:SM;font-size:16px;letter-spacing:2.4px;text-transform:uppercase;color:${mute}}
 .top{display:flex;justify-content:space-between;padding-bottom:14px;border-bottom:2px solid ${fg}}
-.top b{color:#ff5a1f;font-weight:400}
+.top b{background:${LIME};color:#08090B;font-weight:400;padding:3px 8px;border-radius:4px}
 h2{font-family:IT;font-weight:700;letter-spacing:-2px;font-size:58px;line-height:1;margin:30px 0 16px;max-width:620px}
 p{font-size:23px;line-height:1.45;color:${mute};max-width:560px}
 .img{position:absolute;right:48px;top:118px;width:470px;height:470px;border-radius:18px;overflow:hidden;border:1px solid ${line};background:#080809}
 .img img{width:100%;height:100%;object-fit:cover;object-position:top center}
-.nums{display:flex;gap:40px;margin-top:28px}.nums div{border-left:2px solid #ff5a1f;padding-left:12px}
+.nums{display:flex;gap:40px;margin-top:28px}.nums div{border-left:4px solid ${LIME};padding-left:12px}
 .nums strong{display:block;font-family:IT;font-size:40px;letter-spacing:-1px;color:${fg}}
 .stack{position:absolute;left:48px;bottom:44px;display:flex;gap:10px;flex-wrap:wrap;max-width:600px}
 .stack span{font-family:SM;font-size:15px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 12px;border:1px solid ${line};border-radius:999px;color:${fg}}
-.go{position:absolute;right:48px;bottom:40px;font-family:SM;font-size:16px;letter-spacing:2px;text-transform:uppercase;color:#ff5a1f}
+.go{position:absolute;right:48px;bottom:38px;font-family:SM;font-size:16px;letter-spacing:2px;text-transform:uppercase;background:${LIME};color:#08090B;padding:10px 18px;border-radius:999px}
 </style></head><body><div class="c">
 <div class="top m"><span><b>${c.n}</b>&nbsp; ${c.meta}</span><span>praveentak.dev</span></div>
 <h2>${c.title}</h2><p>${c.text}</p>

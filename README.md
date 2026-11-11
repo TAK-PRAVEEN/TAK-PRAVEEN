@@ -1,4 +1,4 @@
-<!-- Profile README — designed to match praveentak.dev (assets/ + tools/ regenerate everything). -->
+<!-- Profile README — palette: Soft Ivory #FAF8F3 · Midnight Black #08090B · Neon Lime #CDF22B (assets/ + tools/ regenerate everything). -->
 
 <a href="https://praveentak.dev">
   <picture>
