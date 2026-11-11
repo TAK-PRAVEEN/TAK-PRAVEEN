@@ -1,88 +1,79 @@
-<!-- Profile Header with Typing Animation -->
-<h1 align="center">
-  Hi there, I'm <a href="https://github.com/TAK-PRAVEEN" target="_blank">PRAVEEN TAK</a> 
-</h1>
+<!-- Profile README — designed to match praveentak.dev (assets/ + tools/ regenerate everything). -->
+
+<a href="https://praveentak.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Praveen Tak — AI / ML Engineer. Portfolio 2026, Jaipur, India.">
+  </picture>
+</a>
+
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=720&lines=Data+Scientist;Machine+Learning+Enthusiast;MCA+AI+and+Data+Science+Student;Open+Source+Contributor" alt="Typing Animation">
-  </a>
+  <a href="https://praveentak.dev/about"><b>02 About</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://praveentak.dev/work"><b>03 Work</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://praveentak.dev/lab"><b>04 Lab</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://praveentak.dev/experience"><b>06 Experience</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://praveentak.dev/contact"><b>07 Contact</b></a>
 </p>
 
----
+<br>
 
-<!-- Badges -->
+<a href="https://praveentak.dev">
+  <img src="assets/portfolio-tour.webp" width="100%" alt="A scroll through praveentak.dev — hero, the moon window, toolkit wall, AI/ML Lab and selected work">
+</a>
+<p align="center"><sub>↑ a 20-second scroll through <a href="https://praveentak.dev"><b>praveentak.dev</b></a> — open it for the real thing (ink, cursor and scroll effects).</sub></p>
+
+<br>
+
+### `01.1 — Now`
+
+**AI Engineer at DESIGO® Milk**, Jodhpur — building **RTCOM**, the operating system behind traceable milk: Plant, Farm and Fleet apps, a customer app, face-recognition attendance and a Supabase ERP, serving **~2,100 customers** with **30+ riders**. On the side: computer vision R&D and websites that feel alive.
+
+<br>
+
+### `02 — Selected work`
+
 <p align="center">
-  <a href="mailto:praveentak715@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tak-praveen.github.io/PraveenTak_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/Praveen.Tak" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/praveentak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/TAK-PRAVEEN" target="_blank">
-    <img src="https://img.shields.io/github/followers/TAK-PRAVEEN?label=Follow&style=for-the-badge" />
-  </a>
-</p>
-
-<!-- Extra Stats Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/TAK-PRAVEEN?label=Followers&style=for-the-badge&color=000000" />
-  <img src="https://img.shields.io/github/stars/TAK-PRAVEEN?label=Stars&style=for-the-badge&color=000000" />
-  <img src="https://img.shields.io/github/last-commit/TAK-PRAVEEN/TAK-PRAVEEN?label=Last%20Update&style=for-the-badge&color=000000" />
-</p>
-
----
-
-### 🚀 About Me
-- 🎓 BSc Computer Science Graduate @ Lachoo Memorial College, Jodhpur  
-- 💻 Passionate about **AI, Web Development, and Open Source**  
-- 📚 Currently exploring **Deep Learning & Time Series Forecasting**  
-- 🛠️ Building: AI-based Smart Door Camera & Gold Price Prediction App  
-- 🌱 Always learning & improving one commit at a time  
-
----
-
-### 🛠️ Tech Stack
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sql,powerbi,excel,docker,mongodb,git,vscode&perline=6" />
-</p>
-
----
-
-### 📌 3D Contribution Graph
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-### 🌟 Featured Projects
-  🔹 [**AI Smart Door Camera**](#) – Detects faces, interacts with visitors, and sends notifications  
-  🔹 [**Gold Price Predictor**](#) – Time-series forecasting using deep learning  
-  🔹 [**Resume Parser App**](#) – Extracts structured info from PDF/DOCX resumes  
-
----
-
-### 🤝 Let's Connect
-<p align="center">
-  <a href="mailto:praveentak715@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/praveentak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TAK-PRAVEEN/TAK-PRAVEEN/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://praveentak.dev/work/desigo-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rtcom-dark.png"><img src="assets/card-rtcom-light.png" width="49%" alt="RTCOM — DESIGO's operating system"></picture></a>
+  <a href="https://praveentak.dev/lab/milkofit-16-test-reader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-milkofit-dark.png"><img src="assets/card-milkofit-light.png" width="49%" alt="Reading a 16-test milk card"></picture></a>
 </p>
 
 <p align="center">
-  <b>⭐ If you like my work, consider starring some of my repos!</b>
+  <a href="https://praveentak.dev/lab/crew-fit-check"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-crew-dark.png"><img src="assets/card-crew-light.png" width="49%" alt="Crew fit check — PPE detection"></picture></a>
+  <a href="https://praveentak.dev/work/wholeway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-wholeway-dark.png"><img src="assets/card-wholeway-light.png" width="49%" alt="Wholeway website"></picture></a>
 </p>
+
+<p align="center">
+  <a href="https://praveentak.dev/work/desigo-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-desigo-site-dark.png"><img src="assets/card-desigo-site-light.png" width="49%" alt="DESIGO Milk website"></picture></a>
+  <a href="https://praveentak.dev/work/kandy-crumbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kandy-dark.png"><img src="assets/card-kandy-light.png" width="49%" alt="Kandy Crumbs website"></picture></a>
+</p>
+
+<p align="center"><sub>Every card opens its case study on praveentak.dev · more in <a href="https://praveentak.dev/work"><b>Work</b></a> and <a href="https://praveentak.dev/lab"><b>Lab</b></a></sub></p>
+
+<br>
+
+### `03 — Toolkit`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,flutter,dart,react,ts,astro,threejs,supabase,postgres,firebase,cloudflare,fastapi,docker,git&perline=9&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, Flutter, Dart, React, TypeScript, Astro, three.js, Supabase, Postgres, Firebase, Cloudflare, FastAPI, Docker, Git">
+</p>
+
+<br>
+
+### `04 — Activity`
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph">
+</p>
+
+<br>
+
+### `07 — Contact`
+
+<p align="center">
+  <a href="mailto:hello@praveentak.dev"><b>hello@praveentak.dev</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://praveentak.dev"><b>praveentak.dev</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/praveentak/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://huggingface.co/PraveenTak"><b>Hugging Face</b></a>
+</p>
+
+<p align="center"><sub>Let's build something <b>rare.</b></sub></p>
